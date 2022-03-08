@@ -1,0 +1,25 @@
+.body {
+  background-color: #41aae4;
+}
+
+#border {
+  display: flex;
+  flex-direction: row;
+  gap: 2em;
+  padding: 3em;
+  border-radius: 1em;
+  border: #213855;
+  border-style: solid;
+}
+
+#icon {
+
+}
+
+#cent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh
+}
+
